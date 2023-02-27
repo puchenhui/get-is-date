@@ -1,0 +1,15 @@
+{
+  "name": "get-is-date",
+  "version": "1.0.4",
+  "description": "获取该时间戳属于过去的哪个时间段",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "get-is-date",
+    "获取该时间戳属于过去的哪个时间段"
+  ],
+  "author": "",
+  "license": "ISC"
+}
